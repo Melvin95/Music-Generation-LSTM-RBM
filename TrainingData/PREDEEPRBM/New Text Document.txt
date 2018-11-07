@@ -1,0 +1,1 @@
+Pre-training of RBM weights for the deep lstm-rbm network stored here

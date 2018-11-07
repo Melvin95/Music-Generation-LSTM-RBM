@@ -1,0 +1,1 @@
+LSTM-RBM training weights stored here

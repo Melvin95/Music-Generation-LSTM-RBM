@@ -1,0 +1,1 @@
+Training weights for the lstm built by keras stored here

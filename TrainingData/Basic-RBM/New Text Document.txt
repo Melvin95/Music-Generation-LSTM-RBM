@@ -1,0 +1,1 @@
+Training weights for Basic RBM stored here

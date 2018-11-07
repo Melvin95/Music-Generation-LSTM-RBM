@@ -1,0 +1,1 @@
+Training weights for the lstm trained on pop melodies stored here
