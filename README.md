@@ -1,7 +1,7 @@
 # Music-Generation-LSTM-RBM
 
-Machine learning model to generate polyphonic classical piano pieces. Built with TensorFlow.
+A Machine learning model to generate polyphonic classical piano pieces. Built with TensorFlow.
 
-Training weights and corpus a bit too large to upload.
+Training weights were a bit too large to upload. 
 
-A more detailed description in FinalPaper.pdf in repositiory.
+A much more detailed discussion of the architecture used, experiments conducted, results and shortcomings is documented [here] (FinalPaper.pdf).
