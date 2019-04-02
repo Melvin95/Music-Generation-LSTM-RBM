@@ -4,4 +4,4 @@ A Machine learning model to generate polyphonic classical piano pieces. Built wi
 
 Training weights were a bit too large to upload. 
 
-A much more detailed discussion of the architecture used, experiments conducted, results and shortcomings is documented [here](./FinalPaper.pdf).
+A much more detailed discussion of the architecture used, experiments conducted, results and shortcomings is documented [here](./Final Paper.pdf).
